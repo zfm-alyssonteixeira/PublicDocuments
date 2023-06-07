@@ -14,12 +14,12 @@ const config = {
   url: 'https://zfm-alyssonteixeira.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Docusite/',
+  baseUrl: '/PublicDocuments/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'zfm-alyssonteixeira', // Usually your GitHub org/user name.
-  projectName: 'Docusite', // Usually your repo name.
+  projectName: 'PublicDocuments', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -84,7 +84,7 @@ const config = {
             label: 'frontend',
           },
           {
-            href: 'https://github.com/zfm-alyssonteixeira/Docusite',
+            href: 'https://github.com/zfm-alyssonteixeira/PublicDocuments',
             label: 'GitHub',
             position: 'right',
           },
@@ -132,7 +132,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/zfm-alyssonteixeira/Docusite',
+                href: 'https://github.com/zfm-alyssonteixeira/PublicDocuments',
               },
               {
                 label: 'Slack',
