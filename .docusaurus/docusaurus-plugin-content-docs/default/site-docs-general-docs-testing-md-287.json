@@ -1,0 +1,24 @@
+{
+  "unversionedId": "general/docs/Testing",
+  "id": "general/docs/Testing",
+  "title": "Testing",
+  "description": "Simple run tests via php artisan test.",
+  "source": "@site/docs/general/docs/Testing.md",
+  "sourceDirName": "general/docs",
+  "slug": "/general/docs/Testing",
+  "permalink": "/docs/general/docs/Testing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/docs/Testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "generalSidebar",
+  "previous": {
+    "title": "Activity-Logging",
+    "permalink": "/docs/general/docs/Activity-Logging"
+  },
+  "next": {
+    "title": "Composer-package-remove",
+    "permalink": "/docs/general/lessons-learned/Laravel/Composer-package-remove"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "general/Conventions/Commits",
+  "id": "general/Conventions/Commits",
+  "title": "Commits",
+  "description": "We use the Convential Commits convention.",
+  "source": "@site/docs/general/Conventions/Commits.md",
+  "sourceDirName": "general/Conventions",
+  "slug": "/general/Conventions/Commits",
+  "permalink": "/Docusite/docs/general/Conventions/Commits",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Conventions/Commits.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "generalSidebar",
+  "next": {
+    "title": "Functions",
+    "permalink": "/Docusite/docs/general/Conventions/Functions"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/API-Documentation",
+  "id": "api/API-Documentation",
+  "title": "API-Documentation",
+  "description": "We document our API using the OpenApi 3.0.0 standard in a .yaml file. The file is located in the repository. As editor we use StoplightStudio for Mac.",
+  "source": "@site/docs/api/API-Documentation.md",
+  "sourceDirName": "api",
+  "slug": "/api/API-Documentation",
+  "permalink": "/Docusite/docs/api/API-Documentation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/API-Documentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "next": {
+    "title": "Activity-Logging",
+    "permalink": "/Docusite/docs/api/Activity-Logging"
+  }
+}

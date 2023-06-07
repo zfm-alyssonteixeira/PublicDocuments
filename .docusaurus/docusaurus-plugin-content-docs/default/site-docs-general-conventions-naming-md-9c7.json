@@ -1,0 +1,24 @@
+{
+  "unversionedId": "general/Conventions/Naming",
+  "id": "general/Conventions/Naming",
+  "title": "Naming",
+  "description": "General",
+  "source": "@site/docs/general/Conventions/Naming.md",
+  "sourceDirName": "general/Conventions",
+  "slug": "/general/Conventions/Naming",
+  "permalink": "/Docusite/docs/general/Conventions/Naming",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Conventions/Naming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "generalSidebar",
+  "previous": {
+    "title": "Functions",
+    "permalink": "/Docusite/docs/general/Conventions/Functions"
+  },
+  "next": {
+    "title": "Routes",
+    "permalink": "/Docusite/docs/general/Conventions/Routes"
+  }
+}

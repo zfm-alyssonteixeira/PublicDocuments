@@ -1,0 +1,16 @@
+{
+  "unversionedId": "frontend/Project-structure",
+  "id": "frontend/Project-structure",
+  "title": "Project-structure",
+  "description": "LeeresDiagramm",
+  "source": "@site/docs/frontend/Project-structure.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/Project-structure",
+  "permalink": "/Docusite/docs/frontend/Project-structure",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/Project-structure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "frontendSidebar"
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "general/lessons-learned/Composer-package-remove",
+  "id": "general/lessons-learned/Composer-package-remove",
+  "title": "Composer-package-remove",
+  "description": "When you remove a composer package be sure to remove all related files with it.",
+  "source": "@site/docs/general/lessons-learned/Composer-package-remove.md",
+  "sourceDirName": "general/lessons-learned",
+  "slug": "/general/lessons-learned/Composer-package-remove",
+  "permalink": "/docs/general/lessons-learned/Composer-package-remove",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/lessons-learned/Composer-package-remove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "generalSidebar",
+  "previous": {
+    "title": "Workflow",
+    "permalink": "/docs/general/Workflow"
+  },
+  "next": {
+    "title": "Composer-package-update",
+    "permalink": "/docs/general/lessons-learned/Composer-package-update"
+  }
+}

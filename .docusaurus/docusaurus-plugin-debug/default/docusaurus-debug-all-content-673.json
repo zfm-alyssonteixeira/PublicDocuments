@@ -1,0 +1,377 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/Docusite/docs",
+          "tagsPath": "/Docusite/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/AlyssonT/Documents/GitHub/Docusite/sidebars.js",
+          "contentPath": "/Users/AlyssonT/Documents/GitHub/Docusite/docs",
+          "contentPathLocalized": "/Users/AlyssonT/Documents/GitHub/Docusite/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "api/Activity-Logging",
+              "id": "api/Activity-Logging",
+              "title": "Activity-Logging",
+              "description": "We use Laravel-activitylog package for activity logging.",
+              "source": "@site/docs/api/Activity-Logging.md",
+              "sourceDirName": "api",
+              "slug": "/api/Activity-Logging",
+              "permalink": "/Docusite/docs/api/Activity-Logging",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/Activity-Logging.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "apiSidebar",
+              "previous": {
+                "title": "API-Documentation",
+                "permalink": "/Docusite/docs/api/API-Documentation"
+              },
+              "next": {
+                "title": "Testing",
+                "permalink": "/Docusite/docs/api/Testing"
+              }
+            },
+            {
+              "unversionedId": "api/API-Documentation",
+              "id": "api/API-Documentation",
+              "title": "API-Documentation",
+              "description": "We document our API using the OpenApi 3.0.0 standard in a .yaml file. The file is located in the repository. As editor we use StoplightStudio for Mac.",
+              "source": "@site/docs/api/API-Documentation.md",
+              "sourceDirName": "api",
+              "slug": "/api/API-Documentation",
+              "permalink": "/Docusite/docs/api/API-Documentation",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/API-Documentation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "apiSidebar",
+              "next": {
+                "title": "Activity-Logging",
+                "permalink": "/Docusite/docs/api/Activity-Logging"
+              }
+            },
+            {
+              "unversionedId": "api/lessons-learned/Composer-package-remove",
+              "id": "api/lessons-learned/Composer-package-remove",
+              "title": "Composer-package-remove",
+              "description": "When you remove a composer package be sure to remove all related files with it.",
+              "source": "@site/docs/api/lessons-learned/Composer-package-remove.md",
+              "sourceDirName": "api/lessons-learned",
+              "slug": "/api/lessons-learned/Composer-package-remove",
+              "permalink": "/Docusite/docs/api/lessons-learned/Composer-package-remove",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/lessons-learned/Composer-package-remove.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "apiSidebar",
+              "previous": {
+                "title": "Testing",
+                "permalink": "/Docusite/docs/api/Testing"
+              },
+              "next": {
+                "title": "Composer-package-update",
+                "permalink": "/Docusite/docs/api/lessons-learned/Composer-package-update"
+              }
+            },
+            {
+              "unversionedId": "api/lessons-learned/Composer-package-update",
+              "id": "api/lessons-learned/Composer-package-update",
+              "title": "Composer-package-update",
+              "description": "If you want to update Laravel or a composer package be careful and read the changelog of the given package.",
+              "source": "@site/docs/api/lessons-learned/Composer-package-update.md",
+              "sourceDirName": "api/lessons-learned",
+              "slug": "/api/lessons-learned/Composer-package-update",
+              "permalink": "/Docusite/docs/api/lessons-learned/Composer-package-update",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/lessons-learned/Composer-package-update.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "apiSidebar",
+              "previous": {
+                "title": "Composer-package-remove",
+                "permalink": "/Docusite/docs/api/lessons-learned/Composer-package-remove"
+              }
+            },
+            {
+              "unversionedId": "api/Testing",
+              "id": "api/Testing",
+              "title": "Testing",
+              "description": "Simple run tests via php artisan test.",
+              "source": "@site/docs/api/Testing.md",
+              "sourceDirName": "api",
+              "slug": "/api/Testing",
+              "permalink": "/Docusite/docs/api/Testing",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/Testing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "apiSidebar",
+              "previous": {
+                "title": "Activity-Logging",
+                "permalink": "/Docusite/docs/api/Activity-Logging"
+              },
+              "next": {
+                "title": "Composer-package-remove",
+                "permalink": "/Docusite/docs/api/lessons-learned/Composer-package-remove"
+              }
+            },
+            {
+              "unversionedId": "frontend/Project-structure",
+              "id": "frontend/Project-structure",
+              "title": "Project-structure",
+              "description": "LeeresDiagramm",
+              "source": "@site/docs/frontend/Project-structure.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/Project-structure",
+              "permalink": "/Docusite/docs/frontend/Project-structure",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/Project-structure.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "frontendSidebar"
+            },
+            {
+              "unversionedId": "general/Conventions/Commits",
+              "id": "general/Conventions/Commits",
+              "title": "Commits",
+              "description": "We use the Convential Commits convention.",
+              "source": "@site/docs/general/Conventions/Commits.md",
+              "sourceDirName": "general/Conventions",
+              "slug": "/general/Conventions/Commits",
+              "permalink": "/Docusite/docs/general/Conventions/Commits",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Conventions/Commits.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "generalSidebar",
+              "next": {
+                "title": "Functions",
+                "permalink": "/Docusite/docs/general/Conventions/Functions"
+              }
+            },
+            {
+              "unversionedId": "general/Conventions/Functions",
+              "id": "general/Conventions/Functions",
+              "title": "Functions",
+              "description": "General",
+              "source": "@site/docs/general/Conventions/Functions.md",
+              "sourceDirName": "general/Conventions",
+              "slug": "/general/Conventions/Functions",
+              "permalink": "/Docusite/docs/general/Conventions/Functions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Conventions/Functions.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "generalSidebar",
+              "previous": {
+                "title": "Commits",
+                "permalink": "/Docusite/docs/general/Conventions/Commits"
+              },
+              "next": {
+                "title": "Naming",
+                "permalink": "/Docusite/docs/general/Conventions/Naming"
+              }
+            },
+            {
+              "unversionedId": "general/Conventions/Naming",
+              "id": "general/Conventions/Naming",
+              "title": "Naming",
+              "description": "General",
+              "source": "@site/docs/general/Conventions/Naming.md",
+              "sourceDirName": "general/Conventions",
+              "slug": "/general/Conventions/Naming",
+              "permalink": "/Docusite/docs/general/Conventions/Naming",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Conventions/Naming.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "generalSidebar",
+              "previous": {
+                "title": "Functions",
+                "permalink": "/Docusite/docs/general/Conventions/Functions"
+              },
+              "next": {
+                "title": "Routes",
+                "permalink": "/Docusite/docs/general/Conventions/Routes"
+              }
+            },
+            {
+              "unversionedId": "general/Conventions/Routes",
+              "id": "general/Conventions/Routes",
+              "title": "Routes",
+              "description": "We use a slightly modified schema from Laravel.",
+              "source": "@site/docs/general/Conventions/Routes.md",
+              "sourceDirName": "general/Conventions",
+              "slug": "/general/Conventions/Routes",
+              "permalink": "/Docusite/docs/general/Conventions/Routes",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Conventions/Routes.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "generalSidebar",
+              "previous": {
+                "title": "Naming",
+                "permalink": "/Docusite/docs/general/Conventions/Naming"
+              },
+              "next": {
+                "title": "Workflow",
+                "permalink": "/Docusite/docs/general/Workflow"
+              }
+            },
+            {
+              "unversionedId": "general/Workflow",
+              "id": "general/Workflow",
+              "title": "Workflow",
+              "description": "Everything starts with an issue on Linear.",
+              "source": "@site/docs/general/Workflow.md",
+              "sourceDirName": "general",
+              "slug": "/general/Workflow",
+              "permalink": "/Docusite/docs/general/Workflow",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Workflow.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "generalSidebar",
+              "previous": {
+                "title": "Routes",
+                "permalink": "/Docusite/docs/general/Conventions/Routes"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/Docusite/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "generalSidebar": [
+              {
+                "type": "category",
+                "label": "Conventions",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "general/Conventions/Commits"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "general/Conventions/Functions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "general/Conventions/Naming"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "general/Conventions/Routes"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "general/Workflow"
+              }
+            ],
+            "apiSidebar": [
+              {
+                "type": "doc",
+                "id": "api/API-Documentation"
+              },
+              {
+                "type": "doc",
+                "id": "api/Activity-Logging"
+              },
+              {
+                "type": "doc",
+                "id": "api/Testing"
+              },
+              {
+                "type": "category",
+                "label": "lessons-learned",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api/lessons-learned/Composer-package-remove"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/lessons-learned/Composer-package-update"
+                  }
+                ]
+              }
+            ],
+            "frontendSidebar": [
+              {
+                "type": "doc",
+                "id": "frontend/Project-structure"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/Docusite/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/Docusite/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

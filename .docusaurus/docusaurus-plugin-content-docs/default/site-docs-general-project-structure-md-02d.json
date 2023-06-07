@@ -1,0 +1,24 @@
+{
+  "unversionedId": "general/Project-structure",
+  "id": "general/Project-structure",
+  "title": "Project-structure",
+  "description": "LeeresDiagramm",
+  "source": "@site/docs/general/Project-structure.md",
+  "sourceDirName": "general",
+  "slug": "/general/Project-structure",
+  "permalink": "/docs/general/Project-structure",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/Project-structure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "generalSidebar",
+  "previous": {
+    "title": "Routes",
+    "permalink": "/docs/general/Conventions/Routes"
+  },
+  "next": {
+    "title": "Workflow",
+    "permalink": "/docs/general/Workflow"
+  }
+}

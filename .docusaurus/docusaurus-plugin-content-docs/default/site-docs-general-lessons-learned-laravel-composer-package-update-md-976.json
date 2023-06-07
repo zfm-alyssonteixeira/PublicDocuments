@@ -1,0 +1,20 @@
+{
+  "unversionedId": "general/lessons-learned/Laravel/Composer-package-update",
+  "id": "general/lessons-learned/Laravel/Composer-package-update",
+  "title": "Composer-package-update",
+  "description": "If you want to update Laravel or a composer package be careful and read the changelog of the given package.",
+  "source": "@site/docs/general/lessons-learned/Laravel/Composer-package-update.md",
+  "sourceDirName": "general/lessons-learned/Laravel",
+  "slug": "/general/lessons-learned/Laravel/Composer-package-update",
+  "permalink": "/docs/general/lessons-learned/Laravel/Composer-package-update",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/general/lessons-learned/Laravel/Composer-package-update.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "generalSidebar",
+  "previous": {
+    "title": "Composer-package-remove",
+    "permalink": "/docs/general/lessons-learned/Laravel/Composer-package-remove"
+  }
+}

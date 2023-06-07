@@ -1,0 +1,99 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Docusite/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Docusite/docs",
+          "mainDocId": "general/Conventions/Commits",
+          "docs": [
+            {
+              "id": "api/Activity-Logging",
+              "path": "/Docusite/docs/api/Activity-Logging",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "api/API-Documentation",
+              "path": "/Docusite/docs/api/API-Documentation",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "api/lessons-learned/Composer-package-remove",
+              "path": "/Docusite/docs/api/lessons-learned/Composer-package-remove",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "api/lessons-learned/Composer-package-update",
+              "path": "/Docusite/docs/api/lessons-learned/Composer-package-update",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "api/Testing",
+              "path": "/Docusite/docs/api/Testing",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "frontend/Project-structure",
+              "path": "/Docusite/docs/frontend/Project-structure",
+              "sidebar": "frontendSidebar"
+            },
+            {
+              "id": "general/Conventions/Commits",
+              "path": "/Docusite/docs/general/Conventions/Commits",
+              "sidebar": "generalSidebar"
+            },
+            {
+              "id": "general/Conventions/Functions",
+              "path": "/Docusite/docs/general/Conventions/Functions",
+              "sidebar": "generalSidebar"
+            },
+            {
+              "id": "general/Conventions/Naming",
+              "path": "/Docusite/docs/general/Conventions/Naming",
+              "sidebar": "generalSidebar"
+            },
+            {
+              "id": "general/Conventions/Routes",
+              "path": "/Docusite/docs/general/Conventions/Routes",
+              "sidebar": "generalSidebar"
+            },
+            {
+              "id": "general/Workflow",
+              "path": "/Docusite/docs/general/Workflow",
+              "sidebar": "generalSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/Docusite/docs/intro"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "generalSidebar": {
+              "link": {
+                "path": "/Docusite/docs/general/Conventions/Commits",
+                "label": "general/Conventions/Commits"
+              }
+            },
+            "apiSidebar": {
+              "link": {
+                "path": "/Docusite/docs/api/API-Documentation",
+                "label": "api/API-Documentation"
+              }
+            },
+            "frontendSidebar": {
+              "link": {
+                "path": "/Docusite/docs/frontend/Project-structure",
+                "label": "frontend/Project-structure"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
